@@ -1,0 +1,15 @@
+var num1 = 10;
+var num2 = 5;
+var num3;
+var num4 = "10";
+var num5 = true;
+num3 = num1 + num2;
+console.log("cộng :", num3);
+num3 = num1 - num2;
+console.log("trừ: ", num3);
+num3 = num1 * num2;
+console.log("nhân: ", num3);
+num3 = num1 / num2;
+console.log("chia: ", num3);
+var total = num4 + num5;
+console.log(total);
